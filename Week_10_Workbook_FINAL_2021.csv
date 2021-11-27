@@ -146,7 +146,7 @@ AFG,Afghanistan,4,South and Central Asia,LIC,Low Income Country,2,Obligations,20
 AFG,Afghanistan,4,South and Central Asia,LIC,Low Income Country,3,Disbursements,2021,669243138,643439192
 AFG,Afghanistan,4,South and Central Asia,LIC,Low Income Country,18,President's Budget Requests,2021,371800000,357464545
 AFG,Afghanistan,4,South and Central Asia,LIC,Low Income Country,18,President's Budget Requests,2022,363800000,342884242
-AFG,Afghanistan,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1976tq,4501000,15917687
+AFG,Afghanistan,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1976,4501000,15917687
 AGO,Angola,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,1,Appropriated and Planned,2006,32171000,40221801
 AGO,Angola,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,1,Appropriated and Planned,2007,42060000,51191209
 AGO,Angola,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,1,Appropriated and Planned,2008,42203000,50324984
@@ -526,7 +526,7 @@ ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligation
 ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,22930000,98574458
 ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,30200000,117681635
 ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,34384000,125261569
-ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,100000,353648
+ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,100000,353648
 ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,833000,2830186
 ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,68000,200295
 ARG,Argentina,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1982,60000,138384
@@ -711,7 +711,7 @@ ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1973,11200000,51578705
 ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1974,13200000,56745871
 ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1975,114000000,444228690
 ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1976,16700000,60838419
-ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1976tq,10600000,37486667
+ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1976,10600000,37486667
 ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1977,16358000,55577665
 ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1978,15029000,47839268
 ASN,Asia Region,7,World,NULL,NULL,2,Obligations,1979,11683000,34412524
@@ -905,7 +905,7 @@ AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,2300
 AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1974,24000,103174
 AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1975,9000,35071
 AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,18000,65574
-AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,1000,3536
+AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,1000,3536
 AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,24000,81542
 AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,50000,159157
 AUT,Austria,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1979,50000,147276
@@ -1070,7 +1070,7 @@ BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,30100
 BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,301000,1293978
 BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,800000,3117394
 BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1400000,5100227
-BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,301000,1064480
+BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,301000,1064480
 BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,1136000,3859655
 BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,2132000,6786435
 BDI,Burundi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,2325000,6848337
@@ -1254,7 +1254,7 @@ BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,800000,
 BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,16001000,68787174
 BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,1200000,4676091
 BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1101000,4010964
-BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,302000,1068016
+BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,302000,1068016
 BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,1170000,3975172
 BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,1159000,3689248
 BEN,Benin,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,1314000,3870415
@@ -1379,7 +1379,7 @@ BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,
 BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,8900000,38260474
 BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,9600000,37408732
 BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,5100000,18579397
-BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,1101000,3893662
+BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1101000,3893662
 BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,12471000,42371259
 BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,20685000,65843054
 BFA,Burkina Faso,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,26982000,79476053
@@ -1493,7 +1493,7 @@ BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Oblig
 BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1974,79800000,343054588
 BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1975,303800000,1183830492
 BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976,209700000,763941109
-BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976tq,9500000,33596541
+BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976,9500000,33596541
 BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1977,145331000,493774148
 BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1978,194029000,617619625
 BGD,Bangladesh,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1979,207615000,611534387
@@ -1697,7 +1697,7 @@ BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,1,Appropriate
 BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,1,Appropriated and Planned,2020,600000,588385
 BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1975,100000,389674
 BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976,200000,728604
-BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976tq,900000,3182831
+BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976,900000,3182831
 BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1977,875000,2972885
 BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1978,313000,996320
 BHR,Bahrain,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1979,79000,232696
@@ -2106,7 +2106,7 @@ BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1
 BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,302000,1298277
 BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,301000,1172920
 BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,300000,1092906
-BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,101000,357184
+BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,101000,357184
 BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,505000,1715779
 BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,564000,1795286
 BLZ,Belize,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,746000,2197358
@@ -2247,7 +2247,7 @@ BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,
 BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1974,55010000,236484122
 BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1975,33016000,128654862
 BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,42928000,156387525
-BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976tq,13401000,47392342
+BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,13401000,47392342
 BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1977,48204000,163777094
 BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1978,53931000,171669410
 BOL,Bolivia,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1979,57483000,169317395
@@ -2373,7 +2373,7 @@ BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1
 BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,63405000,272573635
 BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,79876000,311256236
 BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,48046000,175032496
-BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,2102000,7433676
+BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2102000,7433676
 BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,4242000,14412548
 BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,2043000,6503135
 BRA,Brazil,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,2050000,6038319
@@ -2640,7 +2640,7 @@ BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations
 BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1974,3000000,12896789
 BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1975,3601000,14032172
 BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,3801000,13847116
-BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976tq,601000,2125422
+BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,601000,2125422
 BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1977,3655000,12418166
 BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1978,19456000,61930986
 BWA,Botswana,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1979,17869000,52633519
@@ -2765,7 +2765,7 @@ CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Oblig
 CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,400000,1719572
 CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,600000,2338046
 CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1800000,6557435
-CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,401000,1418127
+CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,401000,1418127
 CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,2008000,6822348
 CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,1954000,6219837
 CAF,Central African Republic,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,1317000,3879251
@@ -3015,7 +3015,7 @@ CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1973,187910
 CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1974,25907000,111372371
 CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1975,96125000,374574411
 CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976,78302000,285255682
-CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976tq,5100000,18036038
+CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976,5100000,18036038
 CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1977,33249000,112966240
 CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1978,7004000,22294646
 CHL,Chile,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1979,13442000,39593697
@@ -3234,7 +3234,7 @@ CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obliga
 CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,1901000,8172266
 CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,2601000,10135428
 CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,1801000,6561078
-CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,402000,1421663
+CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,402000,1421663
 CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,1266000,4301340
 CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,1543000,4911571
 CIV,Cote d'Ivoire,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,1616000,4759963
@@ -3360,7 +3360,7 @@ CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations
 CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,1600000,6878288
 CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,2100000,8183160
 CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,3300000,12021963
-CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,1200000,4243774
+CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,1200000,4243774
 CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,4952000,16824832
 CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,19973000,63576665
 CMR,Cameroon,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,13396000,39458201
@@ -3470,7 +3470,7 @@ CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1973,425
 CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1974,1300000,5588609
 CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1975,6400000,24939154
 CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976,2400000,8743246
-CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976tq,16000000,56583648
+CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976,16000000,56583648
 CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1977,2956000,10043256
 CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1978,1476000,4698301
 CNA,Central America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1979,2752000,8106074
@@ -3578,7 +3578,7 @@ COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1
 COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,8360000,35939053
 COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,8991000,35035616
 COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,58056000,211499118
-COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,18101000,64013788
+COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,18101000,64013788
 COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,75755000,257383906
 COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,50804000,161715761
 COD,Congo (Kinshasa),5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,46815000,137894576
@@ -3699,7 +3699,7 @@ COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,
 COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,700000,3009251
 COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,700000,2727720
 COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,700000,2550113
-COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,1000,3536
+COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,1000,3536
 COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,777000,2639922
 COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,621000,1976724
 COG,Congo (Brazzaville),5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,1059000,3119306
@@ -3841,7 +3841,7 @@ COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations
 COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,54048000,232348549
 COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,29164000,113644610
 COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,49204000,179251112
-COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,13701000,48453284
+COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,13701000,48453284
 COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,9748000,33119639
 COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,59407000,189100234
 COL,Colombia,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,21770000,64123997
@@ -4192,7 +4192,7 @@ CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligatio
 CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,10602000,45577253
 CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,3700000,14417948
 CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,9301000,33883721
-CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,702000,2482607
+CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,702000,2482607
 CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,16555000,56246987
 CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,8978000,28578147
 CRI,Costa Rica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,17888000,52689484
@@ -4308,7 +4308,7 @@ CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1973,23500000,
 CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1974,1401000,6022801
 CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1975,9701000,37802304
 CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976,17600000,64117137
-CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976tq,500000,1768239
+CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976,500000,1768239
 CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1977,8790000,29864755
 CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1978,25327000,80619147
 CRN,Caribbean Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1979,28837000,84939997
@@ -4618,7 +4618,7 @@ CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,21000
 CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1974,1100000,4728823
 CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1975,25900000,100925641
 CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,10000000,36430191
-CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,20000000,70729560
+CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,20000000,70729560
 CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,17500000,59457704
 CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,15760000,50166136
 CYP,Cyprus,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1979,16504000,48612882
@@ -5092,7 +5092,7 @@ DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,O
 DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,18109000,77849318
 DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,13209000,51472076
 DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,29943000,109082921
-DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,2600000,9194843
+DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2600000,9194843
 DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,15462000,52533429
 DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,6744000,21467032
 DOM,Dominican Republic,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,49365000,145405655
@@ -5220,7 +5220,7 @@ DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Ob
 DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1973,200000,921048
 DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1975,4600000,17925017
 DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,6100000,22222417
-DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976tq,2100000,7426604
+DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,2100000,7426604
 DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1977,5387000,18302780
 DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1978,4125000,13130413
 DZA,Algeria,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1979,632000,1861569
@@ -5325,7 +5325,7 @@ EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1973,1000
 EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1974,700000,3009251
 EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1975,600000,2338046
 EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976,1100000,4007321
-EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976tq,200000,707296
+EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976,200000,707296
 EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1977,1026000,3485920
 EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1978,431000,1371929
 EAG,Eastern Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1996,23500000,36089171
@@ -5479,7 +5479,7 @@ ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,
 ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,7603000,32684762
 ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,8381000,32658602
 ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,14865000,54153480
-ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,602000,2128959
+ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,602000,2128959
 ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,19202000,65240391
 ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,16276000,51808632
 ECU,Ecuador,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,6706000,19752665
@@ -5754,7 +5754,7 @@ EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obli
 EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,21300000,91567202
 EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,370100000,1442184546
 EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,464300000,1691453774
-EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,552501000,1953907625
+EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,552501000,1953907625
 EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,907752000,3084162837
 EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,943212000,3002366871
 EGY,Egypt,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,2588474000,7624405083
@@ -5978,7 +5978,7 @@ ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,607630
 ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1974,28627000,123065459
 ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1975,5484000,21369739
 ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,602000,2193098
-ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,1000,3536
+ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,1000,3536
 ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,143595000,487875943
 ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,141747000,451199196
 ESP,Spain,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1979,171640000,505569262
@@ -6169,7 +6169,7 @@ ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,2387
 ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,58240000,250369663
 ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,58833000,229257075
 ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,16777000,61118931
-ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,1301000,4600957
+ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1301000,4600957
 ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,6492000,22057109
 ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,10279000,32719398
 ETH,Ethiopia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,15841000,46660001
@@ -6675,7 +6675,7 @@ GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,19
 GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1974,201000,864085
 GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1975,501000,1952269
 GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,2500000,9107548
-GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976tq,200000,707296
+GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,200000,707296
 GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1977,2661000,9040968
 GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1978,2661000,8470310
 GAB,Gabon,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1979,924000,2721661
@@ -6953,7 +6953,7 @@ GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,19
 GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,6037000,25952639
 GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,7570000,29498343
 GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,17508000,63781978
-GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,5201000,18393221
+GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,5201000,18393221
 GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,13623000,46285274
 GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,12437000,39588592
 GHA,Ghana,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,24445000,72003267
@@ -7080,7 +7080,7 @@ GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,480100
 GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,5701000,24508198
 GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,11500000,44812543
 GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,6600000,24043926
-GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,2302000,8140971
+GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,2302000,8140971
 GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,1947000,6615094
 GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,13642000,43424266
 GIN,Guinea,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,8424000,24813071
@@ -7207,7 +7207,7 @@ GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,901000
 GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,1900000,8167967
 GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,1900000,7403812
 GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1301000,4739568
-GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,202000,714368
+GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,202000,714368
 GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,1119000,3801895
 GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,2815000,8960512
 GMB,Gambia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,5826000,17160606
@@ -7512,7 +7512,7 @@ GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,79912
 GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1974,67500000,290177753
 GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1975,86000000,335119889
 GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,188322000,686060646
-GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,99100000,350464968
+GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,99100000,350464968
 GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,146465000,497627006
 GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,174825000,556490787
 GRC,Greece,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1979,170920000,503448486
@@ -7707,7 +7707,7 @@ GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligation
 GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,7129000,30647070
 GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,16951000,66053688
 GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,45519000,165826587
-GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,4501000,15917687
+GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,4501000,15917687
 GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,21243000,72174858
 GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,10668000,33957635
 GTM,Guatemala,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,24744000,72883977
@@ -7839,7 +7839,7 @@ GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1
 GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,201000,864085
 GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,1301000,5069663
 GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2002000,7293324
-GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,101000,357184
+GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,101000,357184
 GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,6332000,21513496
 GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,26754000,85161473
 GUY,Guyana,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,8609000,25357993
@@ -8046,7 +8046,7 @@ HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations
 HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1974,27664000,118925591
 HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1975,39767000,154961775
 HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,25521000,92973491
-HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976tq,2500000,8841195
+HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,2500000,8841195
 HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1977,15378000,52248032
 HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1978,20290000,64585717
 HND,Honduras,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1979,31366000,92389216
@@ -8276,7 +8276,7 @@ HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1973,7500000
 HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1974,11400000,49007798
 HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1975,9314000,36294263
 HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1976,23500000,85610950
-HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1976tq,11901000,42087625
+HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1976,11901000,42087625
 HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1977,41292000,140293002
 HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1978,28170000,89668786
 HTI,Haiti,6,Western Hemisphere,LIC,Low Income Country,2,Obligations,1979,25135000,74035675
@@ -8517,7 +8517,7 @@ IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligat
 IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1974,109575000,471055218
 IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1975,109652000,427285651
 IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1976,159130000,579713630
-IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1976tq,65500000,231639309
+IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1976,65500000,231639309
 IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1977,173472000,589385532
 IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1978,252481000,803679968
 IDN,Indonesia,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1979,227222000,669287223
@@ -8656,7 +8656,7 @@ IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligation
 IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1974,137524000,591206003
 IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1975,249496000,972221765
 IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976,181749000,662115081
-IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976tq,22001000,77806052
+IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976,22001000,77806052
 IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1977,126280000,429046791
 IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1978,196515000,625532887
 IND,India,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1979,228697000,673631865
@@ -8839,7 +8839,7 @@ IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Oblig
 IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1974,1402000,6027100
 IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1975,1700000,6624463
 IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,1000000,3643019
-IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976tq,100000,353648
+IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,100000,353648
 IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1979,100000,294552
 IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1991,50000,85638
 IRN,Iran,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1992,121240,202595
@@ -9097,7 +9097,7 @@ ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,
 ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1974,2534164000,10894192792
 ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1975,653100000,2544962786
 ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976,2414401000,8795708988
-ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976tq,278600000,985262768
+ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976,278600000,985262768
 ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1977,1742000000,5918589729
 ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1978,1791800000,5703533201
 ISR,Israel,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1979,4790100000,14109341173
@@ -9216,7 +9216,7 @@ ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1966,148240
 ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1967,1428000,8610879
 ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,11600000,53420803
 ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,800000,2914415
-ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,19100000,67546730
+ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,19100000,67546730
 ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,3117000,10590266
 ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,23385000,74437506
 ITA,Italy,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1979,3576000,10533184
@@ -9293,7 +9293,7 @@ JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,
 JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,13200000,56745873
 JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,4300000,16755994
 JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2200000,8014642
-JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,2900000,10255786
+JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2900000,10255786
 JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,32169000,109296850
 JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,23302000,74173306
 JAM,Jamaica,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,18108000,53337498
@@ -9428,7 +9428,7 @@ JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obl
 JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1974,111190000,477997990
 JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1975,199562000,777641808
 JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,196712000,716625576
-JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976tq,86600000,306258995
+JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,86600000,306258995
 JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1977,211228000,717664679
 JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1978,229988000,732081814
 JOR,Jordan,3,Middle East and North Africa,UMIC,Upper Middle Income Country,2,Obligations,1979,211211000,622126481
@@ -9717,7 +9717,7 @@ KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,19
 KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,13800000,59325229
 KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,24259000,94531086
 KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,39335000,143298157
-KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,16900000,59766478
+KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,16900000,59766478
 KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,49306000,167521232
 KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,61076000,194412877
 KEN,Kenya,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,32171000,94760362
@@ -10152,7 +10152,7 @@ KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Oblig
 KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1974,200204000,860662915
 KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1975,177122000,690198896
 KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1976,444501000,1619325638
-KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1976tq,149401000,528353347
+KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1976,149401000,528353347
 KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1977,232090000,788545056
 KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1978,335216000,1067036269
 KOR,"Korea, Republic of",1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1979,268201000,789991735
@@ -10286,7 +10286,7 @@ LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1973,43601
 LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1974,42301000,181849023
 LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1975,52700000,205358350
 LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976,43200000,157378425
-LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976tq,25500000,90180189
+LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1976,25500000,90180189
 LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1977,33443000,113625371
 LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1978,33917000,107962236
 LAN,Latin America Region,6,Western Hemisphere,NULL,NULL,2,Obligations,1979,17717000,52185800
@@ -10645,7 +10645,7 @@ LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,18807
 LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,6113000,26279357
 LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,17592000,68551501
 LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,7595000,27668729
-LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,1201000,4247310
+LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1201000,4247310
 LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,21964000,74624516
 LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,7903000,25156280
 LBR,Liberia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,19028000,56047378
@@ -11015,7 +11015,7 @@ LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obliga
 LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1974,8512000,36592489
 LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1975,38500000,150024602
 LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1976,35700000,130055782
-LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1976tq,1500000,5304717
+LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1976,1500000,5304717
 LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1977,64815000,220214346
 LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1978,60883000,193798533
 LKA,Sri Lanka,4,South and Central Asia,UMIC,Upper Middle Income Country,2,Obligations,1979,50014000,147317299
@@ -11112,7 +11112,7 @@ LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,
 LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,3600000,15476147
 LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,4100000,15976645
 LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,6300000,22951021
-LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,800000,2829183
+LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,800000,2829183
 LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,5683000,19308465
 LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,10425000,33184134
 LSO,Lesotho,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,13698000,40347750
@@ -11446,7 +11446,7 @@ MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Ob
 MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,23549000,101235495
 MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,38522000,150110330
 MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,75993000,276843950
-MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,4200000,14853208
+MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,4200000,14853208
 MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,57610000,195734761
 MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,80175000,255207487
 MAR,Morocco,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,73150000,215464877
@@ -11666,7 +11666,7 @@ MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,20
 MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,300000,1289679
 MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,201000,783246
 MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,601000,2189454
-MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,100000,353648
+MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,100000,353648
 MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,874000,2969488
 MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,1403000,4465932
 MDG,Madagascar,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,2100000,6185595
@@ -11977,7 +11977,7 @@ MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1
 MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,431000,1852839
 MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,210000,818316
 MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,700000,2550113
-MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,2000,7072
+MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2000,7072
 MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,15887000,53977402
 MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,20629000,65664799
 MEX,Mexico,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,13606000,40076761
@@ -12290,7 +12290,7 @@ MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,13004000
 MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,16401000,70506746
 MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,22700000,88456064
 MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,3300000,12021964
-MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,1301000,4600958
+MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1301000,4600958
 MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,10640000,36150284
 MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,16069000,51149723
 MLI,Mali,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,19045000,56097452
@@ -12423,7 +12423,7 @@ MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,147010
 MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1974,9901000,42563703
 MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1975,9501000,37022955
 MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,9501000,34612325
-MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,4801000,16978630
+MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,4801000,16978630
 MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,10000000,33975831
 MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,9501000,30242923
 MLT,Malta,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1989,75000,137909
@@ -12873,7 +12873,7 @@ MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL
 MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1974,35802000,153910280
 MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1975,19201000,74821361
 MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1976,4501000,16397230
-MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1976tq,802000,2836255
+MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1976,802000,2836255
 MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1977,22651000,76958654
 MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1978,22323000,71057022
 MNS,Middle East and North Africa Region,3,Middle East and North Africa,NULL,NULL,2,Obligations,1979,33284000,98038729
@@ -12955,7 +12955,7 @@ MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,1,Appropriated and Pl
 MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,1,Appropriated and Planned,2019,418244000,418244000
 MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,1,Appropriated and Planned,2020,522834000,512712867
 MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1100000,4007321
-MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,11200000,39608553
+MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,11200000,39608553
 MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,5200000,17667432
 MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,8416000,26789226
 MOZ,Mozambique,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,16807000,49505375
@@ -13080,7 +13080,7 @@ MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligatio
 MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,8601000,36975094
 MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,4300000,16755995
 MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,2900000,10564756
-MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,2200000,7780251
+MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,2200000,7780251
 MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,3533000,12003661
 MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,9193000,29262518
 MRT,Mauritania,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,8682000,25573015
@@ -13230,7 +13230,7 @@ MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligation
 MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1974,3301000,14190767
 MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1975,2301000,8966405
 MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,901000,3282360
-MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976tq,1000,3536
+MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1976,1000,3536
 MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1977,198000,672721
 MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1978,497000,1582016
 MUS,Mauritius,5,Sub-Saharan Africa,UMIC,Upper Middle Income Country,2,Obligations,1979,3317000,9770293
@@ -13358,7 +13358,7 @@ MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,890000
 MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,14601000,62768672
 MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,700000,2727720
 MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,601000,2189455
-MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,3000,10608
+MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,3000,10608
 MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,604000,2052140
 MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,337000,1072714
 MWI,Malawi,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,4060000,11958816
@@ -13490,7 +13490,7 @@ MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligati
 MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1974,22228000,95556610
 MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1975,7225000,28153967
 MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976,20027000,72958745
-MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976tq,600000,2121887
+MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976,600000,2121887
 MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1977,38597000,131136514
 MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1978,19533000,62176088
 MYS,Malaysia,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1979,10475000,30854335
@@ -13755,7 +13755,7 @@ NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,5300000
 NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,21400000,91997095
 NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,9200000,35850035
 NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,11600000,42259022
-NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,2000000,7072956
+NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,2000000,7072956
 NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,8362000,28410590
 NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,14833000,47215374
 NER,Niger,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,12813000,37740963
@@ -14019,7 +14019,7 @@ NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligation
 NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1974,17466000,75085106
 NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1975,46480000,181120611
 NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,22488000,81924215
-NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976tq,1500000,5304717
+NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,1500000,5304717
 NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1977,6425000,21829472
 NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1978,14376000,45760684
 NIC,Nicaragua,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1979,18520000,54551054
@@ -14231,7 +14231,7 @@ NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1973,166
 NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1974,5125000,22032015
 NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1975,4128000,16085755
 NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1976,4241000,15450045
-NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1976tq,1601000,5661901
+NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1976,1601000,5661901
 NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1977,8981000,30513693
 NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1978,13427000,42739892
 NPL,Nepal,4,South and Central Asia,LIC,Low Income Country,2,Obligations,1979,16831000,49576068
@@ -14454,7 +14454,7 @@ OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1973,62100000
 OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1974,74601000,320704452
 OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1975,67200000,261861123
 OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1976,71800000,261568773
-OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1976tq,30400000,107508931
+OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1976,30400000,107508931
 OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1977,111904000,380203137
 OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1978,5244000,16692336
 OCN,Oceania Region,1,East Asia and Oceania,NULL,NULL,2,Obligations,1979,6731000,19826304
@@ -14545,7 +14545,7 @@ OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,19
 OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1974,200000,859786
 OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1975,300000,1169023
 OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976,400000,1457208
-OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976tq,100000,353648
+OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1976,100000,353648
 OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1977,368000,1250311
 OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1978,345000,1098180
 OMN,Oman,3,Middle East and North Africa,HIC,High Income Country,2,Obligations,1979,496000,1460979
@@ -14681,7 +14681,7 @@ PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligat
 PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1974,102032000,438628392
 PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1975,181159000,705930046
 PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976,203702000,742090280
-PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976tq,64500000,228102830
+PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1976,64500000,228102830
 PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1977,108582000,368916366
 PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1978,78377000,249484217
 PAK,Pakistan,4,South and Central Asia,LMIC,Lower Middle Income Country,2,Obligations,1979,50864000,149820991
@@ -14821,7 +14821,7 @@ PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1973,16265
 PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1974,28823000,123908050
 PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1975,21758000,84785333
 PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976,25488000,92853270
-PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976tq,6901000,24405235
+PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976,6901000,24405235
 PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1977,19383000,65855354
 PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1978,23599000,75118696
 PAN,Panama,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1979,22589000,66536377
@@ -14961,7 +14961,7 @@ PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,197
 PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,33242000,142905020
 PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,37401000,145742082
 PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,42811000,155961290
-PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,22200000,78509811
+PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,22200000,78509811
 PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,33793000,114814526
 PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,63544000,202268843
 PER,Peru,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,76105000,224168892
@@ -15101,7 +15101,7 @@ PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Oblig
 PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1974,89975000,386796197
 PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1975,102834000,400717659
 PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1976,116939000,426011012
-PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1976tq,32001000,113170832
+PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1976,32001000,113170832
 PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1977,123508000,419628691
 PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1978,120309000,382959245
 PHL,Philippines,1,East Asia and Oceania,LMIC,Lower Middle Income Country,2,Obligations,1979,104114000,306669996
@@ -15587,7 +15587,7 @@ PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1973,100
 PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1974,753000,3237094
 PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1975,15456000,60228058
 PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,56435000,205593784
-PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976tq,25300000,89472893
+PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1976,25300000,89472893
 PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1977,163091000,554115221
 PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1978,363141000,1155925187
 PRT,Portugal,2,Europe and Eurasia,HIC,High Income Country,2,Obligations,1979,68758000,202528147
@@ -15719,7 +15719,7 @@ PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations
 PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,8157000,35066370
 PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,9032000,35195382
 PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,8021000,29220656
-PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,2201000,7783789
+PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,2201000,7783789
 PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,3842000,13053512
 PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,4139000,13174976
 PRY,Paraguay,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,10272000,30256394
@@ -16157,7 +16157,7 @@ RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,300000
 RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,500000,2149465
 RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,2900000,11300554
 RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1601000,5832474
-RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,601000,2125423
+RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,601000,2125423
 RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,1792000,6088469
 RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,3451000,10984984
 RWA,Rwanda,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,6398000,18845445
@@ -16545,7 +16545,7 @@ SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1973,15311000,70
 SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1974,5014000,21554833
 SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1975,8200000,31953292
 SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976,1700000,6193133
-SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976tq,100000,353648
+SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976,100000,353648
 SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1977,6477000,22006145
 SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1978,20155000,64155996
 SDF,Sudan (former),5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1979,42869000,126271548
@@ -16788,7 +16788,7 @@ SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,
 SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,8807000,37860675
 SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,9434000,36761872
 SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,4529000,16499234
-SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,1801000,6369196
+SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,1801000,6369196
 SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,21107000,71712786
 SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,21504000,68450038
 SEN,Senegal,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,22821000,67219741
@@ -17069,7 +17069,7 @@ SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,
 SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,2800000,12037003
 SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,4900000,19094041
 SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,4100000,14936379
-SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,901000,3186366
+SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,901000,3186366
 SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,4485000,15238160
 SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,7065000,22488818
 SLE,Sierra Leone,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,8584000,25284354
@@ -17208,7 +17208,7 @@ SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligati
 SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1974,11332000,48715472
 SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1975,9253000,36056563
 SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,7017000,25563065
-SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976tq,1401000,4954606
+SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1976,1401000,4954606
 SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1977,7317000,24860114
 SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1978,10954000,34868011
 SLV,El Salvador,6,Western Hemisphere,LMIC,Lower Middle Income Country,2,Obligations,1979,11395000,33564214
@@ -17378,7 +17378,7 @@ SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1970,30000
 SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1971,301000,1515240
 SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,5200000,20263063
 SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1600000,5828831
-SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,700000,2475535
+SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,700000,2475535
 SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,843000,2864163
 SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,19016000,60530408
 SOM,Somalia,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,28826000,84907594
@@ -17646,7 +17646,7 @@ SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1973,
 SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1974,51101000,219679605
 SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1975,41800000,162883853
 SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976,55300000,201458956
-SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976tq,21400000,75680629
+SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1976,21400000,75680629
 SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1977,69613000,236515952
 SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1978,94215000,299898639
 SSN,Sub-Saharan Africa Region,5,Sub-Saharan Africa,NULL,NULL,2,Obligations,1979,62579000,184327772
@@ -18174,7 +18174,7 @@ SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations
 SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,1300000,5588609
 SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,2700000,10521205
 SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,1300000,4735925
-SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,202000,714368
+SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,202000,714368
 SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,1365000,4637701
 SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,14127000,44968085
 SWZ,Eswatini,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,7567000,22288759
@@ -18299,7 +18299,7 @@ SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1973,1
 SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1974,2000,8598
 SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1975,202000,787143
 SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1976,102000,371588
-SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1976tq,2000,7072
+SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1976,2000,7072
 SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1977,195000,662529
 SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1978,256000,814882
 SYC,Seychelles,5,Sub-Saharan Africa,HIC,High Income Country,2,Obligations,1979,861000,2536094
@@ -18424,7 +18424,7 @@ SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,19
 SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1973,200000,921048
 SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1975,104600000,407599307
 SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1976,34900000,127141367
-SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1976tq,78700000,278320818
+SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1976,78700000,278320818
 SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1977,99697000,338728840
 SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1978,105359000,335371444
 SYR,Syria,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1979,110795000,326349023
@@ -18533,7 +18533,7 @@ TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,900000,4
 TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,6800000,29232722
 TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,4800000,18704366
 TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,1200000,4371623
-TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,2700000,9548491
+TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,2700000,9548491
 TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,12886000,43781255
 TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,19443000,61889606
 TCD,Chad,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,10031000,29546524
@@ -18659,7 +18659,7 @@ TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,1800000,
 TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,2200000,9457646
 TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,3000000,11690228
 TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,3000000,10929057
-TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,900000,3182830
+TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,900000,3182830
 TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,4181000,14205295
 TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,4195000,13353232
 TGO,Togo,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,6051000,17823348
@@ -18796,7 +18796,7 @@ THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligati
 THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1974,49641000,213403167
 THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1975,47093000,183509315
 THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976,118919000,433224189
-THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976tq,39401000,139340768
+THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976,39401000,139340768
 THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1977,64643000,219629963
 THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1978,48664000,154903862
 THA,Thailand,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1979,57738000,170068504
@@ -19462,7 +19462,7 @@ TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Ob
 TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,14648000,62970722
 TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,20349000,79294821
 TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,37387000,136201556
-TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,11000000,38901258
+TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,11000000,38901258
 TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,49321000,167572196
 TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,64526000,205394678
 TUN,Tunisia,3,Middle East and North Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,53210000,156731184
@@ -19602,7 +19602,7 @@ TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1
 TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1974,200338000,861238971
 TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1975,110581000,430905725
 TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1976,125000000,455377389
-TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1976tq,125000000,442059748
+TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1976,125000000,442059748
 TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1977,125188000,425336631
 TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1978,176247000,561017199
 TUR,Turkey,2,Europe and Eurasia,UMIC,Upper Middle Income Country,2,Obligations,1979,251141000,739741144
@@ -19748,7 +19748,7 @@ TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1973,14
 TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1974,92744000,398699933
 TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1975,82710000,322299606
 TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1976,94220000,343245260
-TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1976tq,13400000,47388805
+TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1976,13400000,47388805
 TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1977,35485000,120563235
 TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1978,24128000,76802572
 TWN,Taiwan,1,East Asia and Oceania,HIC,High Income Country,2,Obligations,1979,8000,23564
@@ -19838,7 +19838,7 @@ TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1973,8800
 TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1974,8800000,37830581
 TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1975,39900000,155480041
 TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,31100000,113297895
-TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976tq,5100000,18036037
+TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1976,5100000,18036037
 TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1977,24615000,83631508
 TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1978,25184000,80163958
 TZA,Tanzania,5,Sub-Saharan Africa,LIC,Low Income Country,2,Obligations,1979,24047000,70830949
@@ -20200,7 +20200,7 @@ URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1973,1132
 URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1974,6315000,27147741
 URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1975,21887000,85288012
 URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976,3959000,14422713
-URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976tq,2800000,9902139
+URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1976,2800000,9902139
 URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1977,615000,2089514
 URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1978,230000,732120
 URY,Uruguay,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1979,192000,565540
@@ -20489,7 +20489,7 @@ VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligation
 VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1974,10969000,47154959
 VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1975,2269000,8841709
 VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,11273000,41067755
-VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976tq,200000,707296
+VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1976,200000,707296
 VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1977,152000,516433
 VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1978,101000,321496
 VEN,Venezuela,6,Western Hemisphere,UMIC,Upper Middle Income Country,2,Obligations,1979,2000,5891
@@ -20895,7 +20895,7 @@ WLD,World,7,World,NULL,NULL,2,Obligations,1973,1360747000,6266568699
 WLD,World,7,World,NULL,NULL,2,Obligations,1974,1460622000,6279111242
 WLD,World,7,World,NULL,NULL,2,Obligations,1975,1560267000,6079959350
 WLD,World,7,World,NULL,NULL,2,Obligations,1976,784311000,2857259964
-WLD,World,7,World,NULL,NULL,2,Obligations,1976tq,603300000,2133557170
+WLD,World,7,World,NULL,NULL,2,Obligations,1976,603300000,2133557170
 WLD,World,7,World,NULL,NULL,2,Obligations,1977,1884405000,6402422545
 WLD,World,7,World,NULL,NULL,2,Obligations,1978,2373599000,7555475332
 WLD,World,7,World,NULL,NULL,2,Obligations,1979,2909180000,8569051408
@@ -21015,7 +21015,7 @@ WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations
 WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1974,600000,2579358
 WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1975,900000,3507069
 WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976,700000,2550113
-WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976tq,300000,1060943
+WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1976,300000,1060943
 WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1977,1006000,3417969
 WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1978,1135000,3612853
 WSM,Samoa,1,East Asia and Oceania,UMIC,Upper Middle Income Country,2,Obligations,1979,1038000,3057451
@@ -21140,7 +21140,7 @@ YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,19
 YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1974,4000000,17195719
 YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1975,6900000,26887526
 YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1976,7641000,27836309
-YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1976tq,2702000,9555563
+YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1976,2702000,9555563
 YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1977,17351000,58951464
 YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1978,8387000,26696915
 YEM,Yemen,3,Middle East and North Africa,LIC,Low Income Country,2,Obligations,1979,18608000,54810259
@@ -21385,7 +21385,7 @@ ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1
 ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1974,200000,859786
 ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1975,201000,783246
 ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,101000,367945
-ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976tq,1601000,5661901
+ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1976,1601000,5661901
 ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1977,25589000,86940754
 ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1978,38563000,122751061
 ZMB,Zambia,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,2,Obligations,1979,33319000,98141821

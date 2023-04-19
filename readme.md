@@ -10,7 +10,7 @@ This repository contains the materials for D-Lab’s Haas Python Workshop. No pr
 
 ## Workshop Goals
 
-This workshop provides a gentle introduction to data analysis in Python for learners with basic proficiency in Excel. We will compare common data analysis tasks in Excel with their equivalent operations in Python, examine the pros and cons of shifting from Excel to a scripting language environment, and complete a guided, end-to-end data analysis project using Python
+This workshop provides a gentle introduction to data analysis in Python for learners with basic proficiency in Excel. We will compare common data analysis tasks in Excel with their equivalent operations in Python, examine the pros and cons of shifting from Excel to a scripting language environment, and complete a guided, end-to-end data analysis using Python.
 
 ## Getting Started
 To get started, you can click the following link to open this repository in Google Colab, a cloud based python environment:  

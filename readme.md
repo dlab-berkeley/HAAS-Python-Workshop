@@ -19,9 +19,12 @@ To get started, you can click the following link to open this repository in Goog
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>  
 
+Alternatively, you can access the repository via DataHub, a cloud based environment hosted by UC Berkeley:  
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FHAAS-Python-Workshop&urlpath=tree%2FHAAS-Python-Workshop%2F&branch=main)
+
 If you would prefer to download python onto your computer and work locally, you can follow the instructions below.
 
-## Local Installation Instructions (Optional)
+## Local Installation Instructions (OPTIONAL)
 
 Anaconda is a useful package management software that allows you to run Python
 and Jupyter notebooks easily. Installing Anaconda is the easiest way to make
@@ -41,3 +44,8 @@ steps prior to the workshop:
    -   Click "Download Zip".
    -   Extract this file to a folder on your computer where you can easily
         access it (we recommend Desktop).
+
+Now that you have all the required software and materials, you need to run the code:
+1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time.
+
+2. Click the "Launch" button under "Jupyter Lab" and navigate through your file system to the HAAS-Python-Workshop folder you downloaded above.
